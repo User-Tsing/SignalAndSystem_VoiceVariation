@@ -4,7 +4,7 @@ Directed by STAssn
 使用MATLAB中的shiftPitch库函数进行快速变声（无任何技术含量）                    
 上传是为了纪念曾经制作过这样一个课程项目。        
 
-
+Declaration: This project was completed by STAssn, but submitted as a group assignment.     
 
 PS:         
 List of participants:        
